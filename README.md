@@ -66,7 +66,7 @@ python update_paths.py
 **5. Create Search Index**
 Build the search index from your image dataset:
 ```
-python newindex.py
+python build_index.py
 ```
 **Note:** Change the image directory path and index output location in this file.  
 
