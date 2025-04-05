@@ -11,7 +11,7 @@ Intuitive Web Interface: Simple UI for uploading images or entering text queries
 ## Installation:  
 
 ### Prerequisites:  
-Python 3.8+
-PyTorch 1.9+
-FAISS
-Flask
+Python 3.8+  
+PyTorch 1.9+  
+FAISS  
+Flask  
