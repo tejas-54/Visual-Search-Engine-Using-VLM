@@ -13,6 +13,7 @@ __Intuitive Web Interface:__ Simple UI for uploading images or entering text que
 
 ## Setup:  
 Clone this repository:  
-```git clone <repository-url>
+```
+git clone <repository-url>
 cd visual-search-vlm
 ```
