@@ -14,7 +14,7 @@ __Intuitive Web Interface:__ Simple UI for uploading images or entering text que
 ## Setup:  
 Clone this repository:  
 ```
-git clone [<repository-url>](https://github.com/tejas-54/Visual-Search-Engine-Using-VLM.git)
+git clone https://github.com/tejas-54/Visual-Search-Engine-Using-VLM.git
 cd visual-search-vlm
 ```
 Install dependencies::  
@@ -22,4 +22,17 @@ Install dependencies::
 pip install -r requirements.txt
 ```
 ### IMPORTANT: 
-Change file paths in the configuration sections of each script to match your system setup.
+Change file paths in the configuration sections of each script to match your system setup.  
+
+# File Structure:  
+**image/** - Directory for storing your image dataset  
+
+**clip_vit_b16_finetuned.pth** - Fine-tuned CLIP ViT-B/16 model checkpoint  
+
+**generate_image_descriptions.py** - Script to generate text descriptions for images  
+
+**newindex.py **- Creates embeddings and builds the search index  
+
+**visual_search.py** - Core search functionality implementation  
+
+**webapp.py** - Web application for the search interface  
