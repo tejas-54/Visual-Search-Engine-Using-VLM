@@ -31,8 +31,43 @@ Change file paths in the configuration sections of each script to match your sys
 
 **generate_image_descriptions.py** - Script to generate text descriptions for images  
 
-**newindex.py **- Creates embeddings and builds the search index  
+**newindex.py ** - Creates embeddings and builds the search index  
 
 **visual_search.py** - Core search functionality implementation  
 
 **webapp.py** - Web application for the search interface  
+
+# Usage:  
+**1. Run the requirements.txt**  
+```
+pip install -r requirements.txt
+```
+**2. Generate Image Descriptions**  
+Generate descriptive captions for images in your dataset:  
+```
+python generate_image_descriptions.py
+```
+**Note:** Edit the input and output paths in this file before running.  
+
+**3. Run the finetuning code**  
+Generate a finetuned state-of-art-clip-model:  
+```
+python finetune_vlm.py
+```
+**Note:** Change the required paths in this file.    
+**4. Run the udate path file**  
+Update the paths of the images file in the fine tuned model:  
+```
+python update_paths.py
+```
+**Note:** Change the required paths in this file  
+**5. Create Search Index**
+Build the search index from your image dataset:
+```
+python newindex.py
+```
+**Note:** Change the image directory path and index output location in this file.  
+
+
+
+
