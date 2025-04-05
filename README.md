@@ -14,6 +14,12 @@ __Intuitive Web Interface:__ Simple UI for uploading images or entering text que
 ## Setup:  
 Clone this repository:  
 ```
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/tejas-54/Visual-Search-Engine-Using-VLM.git)
 cd visual-search-vlm
 ```
+Install dependencies::  
+```
+pip install -r requirements.txt
+```
+### IMPORTANT: 
+Change file paths in the configuration sections of each script to match your system setup.
