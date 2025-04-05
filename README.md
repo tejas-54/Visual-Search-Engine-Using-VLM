@@ -22,7 +22,9 @@ https://drive.google.com/file/d/1Uk6CVdnwPm-i97VbbZbn3FjRw0t44v4F/view?usp=shari
 
 ## Screenshots of Working Project  
 
-
+![Image](Visual-Search-Engine-Using-VLM/Screenshot 2025-04-05 222201.png)
+![Image](Visual-Search-Engine-Using-VLM/Screenshot 2025-04-05 222304.png)
+![Image](Visual-Search-Engine-Using-VLM/Screenshot 2025-04-05 222359.png)
 
 ## Setup:  
 Clone this repository:  
