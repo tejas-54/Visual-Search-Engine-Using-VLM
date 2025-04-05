@@ -31,7 +31,7 @@ Change file paths in the configuration sections of each script to match your sys
 
 **generate_image_descriptions.py** - Script to generate text descriptions for images  
 
-**newindex.py ** - Creates embeddings and builds the search index  
+**newindex.py** - Creates embeddings and builds the search index  
 
 **visual_search.py** - Core search functionality implementation  
 
