@@ -1,0 +1,9 @@
+openai 
+torch
+transformers>=4.30.0
+pillow
+numpy
+faiss-cpu
+transformers
+pytorch
+numpy
