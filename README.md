@@ -112,7 +112,6 @@ View search results sorted by relevance
 
 # Kaggle VLM Model  
 Same model implemeted on kaggle for easy access  
-
 #### How to run  
 Open this link https://www.kaggle.com/code/prasadshiva236/visual-search-engine  
 Upload the clip finetuned model(https://github.com/tejas-54/Visual-Search-Engine-Using-VLM/blob/main/finetuned-CLIP-model) to kaggle notebook  
