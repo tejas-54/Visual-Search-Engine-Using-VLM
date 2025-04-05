@@ -21,10 +21,12 @@ The dataset consist of 11385 images and includes categories of blue, black, red,
 https://drive.google.com/file/d/1Uk6CVdnwPm-i97VbbZbn3FjRw0t44v4F/view?usp=sharing  
 
 ## Screenshots of Working Project  
-<img src="Screenshot 2025-04-05 222201.png" alt="Logo" width="250"/>
-<img src="Screenshot 2025-04-05 222304.png" alt="Logo" width="250"/>
-<img src="Screenshot 2025-04-05 222359.png" alt="Logo" width="250"/>
 
+<div style="display: flex; gap: 10px;">
+  <img src="Screenshot 2025-04-05 222201.png" alt="Screenshot 1" width="300"/>
+  <img src="Screenshot 2025-04-05 222304.png" alt="Screenshot 2" width="300"/>
+  <img src="Screenshot 2025-04-05 222359.png" alt="Screenshot 3" width="300"/>
+</div>
 
 ## Setup:  
 Clone this repository:  
