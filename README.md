@@ -14,6 +14,12 @@ __Intuitive Web Interface:__ Simple UI for uploading images or entering text que
 The dataset consist of 11385 images and includes categories of blue, black, red, brown, blue, green, white apparels:
 **https://www.kaggle.com/datasets/trolukovich/apparel-images-dataset**  
 
+# Clip Finetuned Model Link  
+**https://huggingface.co/openai/clip-vit-base-patch16**  
+
+# Demo of Our Project  
+https://drive.google.com/file/d/1Uk6CVdnwPm-i97VbbZbn3FjRw0t44v4F/view?usp=sharing  
+
 ## Setup:  
 Clone this repository:  
 ```
