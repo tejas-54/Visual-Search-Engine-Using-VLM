@@ -10,6 +10,9 @@ __Semantic Understanding:__ Find images based on conceptual meaning, not just ke
 __Efficient Retrieval:__ Fast similarity search using approximate nearest neighbors  
 __Intuitive Web Interface:__ Simple UI for uploading images or entering text queries    
 
+# Dataset Used  
+The dataset consist of 11385 images and includes categories of blue, black, red, brown, blue, green, white apparels:
+**https://www.kaggle.com/datasets/trolukovich/apparel-images-dataset**  
 
 ## Setup:  
 Clone this repository:  
