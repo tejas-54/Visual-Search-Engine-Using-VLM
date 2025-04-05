@@ -108,7 +108,9 @@ CLIP (Contrastive Language-Image Pre-training) for the shared embedding space
 FAISS for efficient similarity search and indexing  
 Flask for the web interface  
 
- 
+# Troubleshooting
+If you encounter errors related to file paths, ensure you've updated all path variables in the scripts as mentioned in the Configuration section.  
+For other issues, check the console output for error messages or create an issue in the repository.  
 
 
 
