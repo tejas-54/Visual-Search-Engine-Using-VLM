@@ -3,10 +3,10 @@ This project implements a visual search engine leveraging state-of-the-art visio
 
 
 Features
-Multi-Modal Search: Query using either text descriptions or example images
-Semantic Understanding: Find images based on conceptual meaning, not just keywords
-Efficient Retrieval: Fast similarity search using approximate nearest neighbors
-Intuitive Web Interface: Simple UI for uploading images or entering text queries
+Multi-Modal Search: Query using either text descriptions or example images  
+Semantic Understanding: Find images based on conceptual meaning, not just keywords  
+Efficient Retrieval: Fast similarity search using approximate nearest neighbors  
+Intuitive Web Interface: Simple UI for uploading images or entering text queries  
 
 Installation:
 
