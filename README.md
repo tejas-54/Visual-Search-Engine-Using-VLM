@@ -85,33 +85,27 @@ python webapp.py
 **Note:** Modify the model path and index location in this file before running.    
 
 **Perform Visual Search**   
-Navigate to **http://localhost:5000** in your browser   
+Navigate to **http://localhost:8000** in your browser   
 
 Enter a text query or upload a sample image  
 
 View search results sorted by relevance  
 
-**Example Queries**  
+# Example Queries  
 **Text queries:** "red floral dress", "white nike shoes", "brown pants for men" etc  
-
 **Image queries:** Upload any apparel image to find visually similar ones  
 
-**Performance Evaluation**  
+
+# Performance Evaluation  
 The system evaluates search performance using:  
-
 Precision@k  
-
 Recall@k  
-
 Mean Average Precision (MAP)  
 
-**Technical Details**  
-This implementation uses:  
-
+# Technical Details  
+**This implementation uses:**    
 CLIP (Contrastive Language-Image Pre-training) for the shared embedding space  
-
 FAISS for efficient similarity search and indexing  
-
 Flask for the web interface  
 
  
