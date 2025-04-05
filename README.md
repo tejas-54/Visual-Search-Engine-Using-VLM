@@ -20,6 +20,9 @@ The dataset consist of 11385 images and includes categories of blue, black, red,
 ## Demo of Our Project  
 https://drive.google.com/file/d/1Uk6CVdnwPm-i97VbbZbn3FjRw0t44v4F/view?usp=sharing  
 
+## Screenshots of Working Project  
+![Project Screenshot](Screenshot 2025-04-05 222201.png)
+
 ## Setup:  
 Clone this repository:  
 ```
