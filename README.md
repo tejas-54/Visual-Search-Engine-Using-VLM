@@ -21,7 +21,7 @@ The dataset consist of 11385 images and includes categories of blue, black, red,
 https://drive.google.com/file/d/1Uk6CVdnwPm-i97VbbZbn3FjRw0t44v4F/view?usp=sharing  
 
 ## Screenshots of Working Project  
-![Screenshot]([[https://raw.githubusercontent.com/your-username/your-repo/main/path-to-image/image.png](https://github.com/tejas-54/Visual-Search-Engine-Using-VLM/blob/main/Screenshot%202025-04-05%20222201.png](https://github.com/tejas-54/Visual-Search-Engine-Using-VLM/blob/main/Screenshot%202025-04-05%20222201.png)))
+
 
 
 ## Setup:  
