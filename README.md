@@ -26,8 +26,9 @@ https://drive.google.com/file/d/1Uk6CVdnwPm-i97VbbZbn3FjRw0t44v4F/view?usp=shari
   <img src="Screenshot 2025-04-05 222201.png" alt="Screenshot 1" width="300"/>
   <img src="Screenshot 2025-04-05 222304.png" alt="Screenshot 2" width="300"/>
   <img src="Screenshot 2025-04-05 222359.png" alt="Screenshot 3" width="300"/>
+  <img src="Screenshot 2025-04-05 222201.png" alt="Screenshot 3" width="300"/>
 </div>
-![image](https://github.com/user-attachments/assets/1200267f-da61-437e-970a-0830ed8cb5b6)
+
 
 ## Setup:  
 Clone this repository:  
