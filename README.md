@@ -54,19 +54,43 @@ Generate a finetuned state-of-art-clip-model:
 ```
 python finetune_vlm.py
 ```
-**Note:** Change the required paths in this file.    
+**Note:** Change the required paths in this file.  
+
 **4. Run the udate path file**  
 Update the paths of the images file in the fine tuned model:  
 ```
 python update_paths.py
 ```
 **Note:** Change the required paths in this file  
+
 **5. Create Search Index**
 Build the search index from your image dataset:
 ```
 python newindex.py
 ```
 **Note:** Change the image directory path and index output location in this file.  
+
+**6. Create Visual Search for the model**  
+Run the visual_search.py to create visual_search:  
+```
+python visual_search.py
+```
+**Note:** Edit the index and model paths in this file before running.    
+
+**7. Run the Web Application**  
+Start the web interface:  
+```
+python webapp.py
+```
+**Note:** Modify the model path and index location in this file before running.    
+
+**Perform Visual Search**   
+Navigate to **http://localhost:5000** in your browser   
+
+Enter a text query or upload a sample image  
+
+View search results sorted by relevance  
+ 
 
 
 
