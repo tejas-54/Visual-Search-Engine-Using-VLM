@@ -73,7 +73,8 @@ Generate a finetuned state-of-art-clip-model:
 ```
 python finetune_vlm.py
 ```
-**Note:** Change the required paths in this file.  
+**Note:** Change the required paths in this file. 
+**Note:** No need to run this you can find the fine tuned model here - https://github.com/tejas-54/Visual-Search-Engine-Using-VLM/blob/main/finetuned-CLIP-model
 
 **4. Run the udate path file**  
 Update the paths of the images file in the fine tuned model:  
