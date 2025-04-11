@@ -73,8 +73,8 @@ Generate a finetuned state-of-art-clip-model:
 ```
 python finetune_vlm.py
 ```
-**Note:** Change the required paths in this file. 
-**Note:** No need to run this you can find the fine tuned model here - https://github.com/tejas-54/Visual-Search-Engine-Using-VLM/blob/main/finetuned-CLIP-model
+**Note:** Change the required paths in this file  
+**Note:** No need to run this you can find the fine tuned model here - https://github.com/tejas-54/Visual-Search-Engine-Using-VLM/blob/main/finetuned-CLIP-model  
 
 **4. Run the udate path file**  
 Update the paths of the images file in the fine tuned model:  
@@ -112,7 +112,7 @@ Enter a text query or upload a sample image
 View search results sorted by relevance  
 
 # Kaggle VLM Model  
-Same model implemeted on kaggle for easy access  
+Same model implemeted on kaggle for easy access
 ### How to run  
 1.Open this link https://www.kaggle.com/code/prasadshiva236/visual-search-engine  
 2.Upload the clip finetuned model(https://github.com/tejas-54/Visual-Search-Engine-Using-VLM/blob/main/finetuned-CLIP-model) to kaggle notebook  
